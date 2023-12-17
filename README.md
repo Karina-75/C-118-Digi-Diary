@@ -1,1 +1,1 @@
-# C-118-Digi-Diary
+# PRO-C118-Teacher-Boilerplate-Code
